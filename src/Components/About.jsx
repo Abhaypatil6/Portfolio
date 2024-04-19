@@ -34,9 +34,9 @@ const skillsList = [
   "Content creator",
   "Marketing",
   "Innovative",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Businessman",
+  "Skilled person",
+  "Gamer",
 ];
 
 /**
